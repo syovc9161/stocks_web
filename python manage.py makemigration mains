@@ -1,0 +1,6 @@
+#Make new on models.py
+ 1. modify models.py
+ 2. python manage.py makemigrations : creating
+ 3. python manage.py migrate : applying
+ 
+ 
